@@ -1,0 +1,4 @@
+# Matrix 2 by 2
+# note extra spaces at the end of some lines
+1 1 1    
+2 2 0   
